@@ -16,6 +16,8 @@ body {
 .screen {
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    padding: 20px 5px;
 }
 
 .calc-button {
